@@ -7,7 +7,7 @@
         var altitudeAccuracy = position.coords.altitudeAccuracy;
         var heading = position.coords.height;
         var speed = position.coords.speed;
-        
+        var timestamp = position.timestamp;
 
         // work with this information however you'd like!
     });

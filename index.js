@@ -28,3 +28,5 @@ function locationError(error) {
         var message = error.message;
 
     }
+
+navigator.geolocation.getCurrentPosition(locationSuccess, locationError);

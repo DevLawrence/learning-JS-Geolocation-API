@@ -19,6 +19,6 @@
         var altitudeAccuracy = position.coords.altitudeAccuracy;
         var heading = position.coords.height;
         var speed = position.coords.speed;
-        
+        var timestamp = position.timestamp;
 
     }

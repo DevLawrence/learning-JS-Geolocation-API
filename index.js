@@ -24,6 +24,7 @@
     }
 
 function locationError(error) {
-       
+        var code = error.code;
+        
 
     }

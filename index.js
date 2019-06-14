@@ -17,6 +17,7 @@
         var altitude = position.coords.altitude;
         var accuracy = position.coords.accuracy;
         var altitudeAccuracy = position.coords.altitudeAccuracy;
+        var heading = position.coords.height;
         
 
     }

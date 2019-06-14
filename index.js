@@ -9,5 +9,4 @@
         var speed = position.coords.speed;
         var timestamp = position.timestamp;
 
-        // work with this information however you'd like!
     });

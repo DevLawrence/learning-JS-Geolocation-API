@@ -13,6 +13,6 @@
 
  function locationSuccess(position) {
         var latitude = position.coords.latitude;
+        var longitude = position.coords.longitude;
         
-
     }

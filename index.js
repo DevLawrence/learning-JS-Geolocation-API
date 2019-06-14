@@ -6,6 +6,5 @@
         var accuracy = position.coords.accuracy;
         var altitudeAccuracy = position.coords.altitudeAccuracy;
         
-
         // work with this information however you'd like!
     });

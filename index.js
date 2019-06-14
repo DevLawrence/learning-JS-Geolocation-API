@@ -12,6 +12,7 @@
     });
 
  function locationSuccess(position) {
+        var latitude = position.coords.latitude;
         
 
     }

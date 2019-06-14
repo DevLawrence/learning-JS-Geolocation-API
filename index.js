@@ -22,3 +22,8 @@
         var timestamp = position.timestamp;
 
     }
+
+function locationError(error) {
+       
+
+    }

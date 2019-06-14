@@ -10,3 +10,8 @@
         var timestamp = position.timestamp;
 
     });
+
+ function locationSuccess(position) {
+        
+
+    }
